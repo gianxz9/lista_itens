@@ -1,0 +1,5 @@
+let bodybuilder = [ "Brandão", "Zanca", "Dorian yates", "Jordan petters", "Ramon dino", "Cbum", "Jorlan", "Ronnie coleman", "Gabriel menegate", "Ganley"];
+
+for(indice=0; indice <=9; indice++) {
+    console.log(bodybuilder[indice]);
+    };
